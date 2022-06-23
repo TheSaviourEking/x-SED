@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dfuam
+ls -fuam
